@@ -1,0 +1,12 @@
+{
+  "name": "wails-svelte",
+  "outputfilename": "wails-svelte",
+  "frontend:install": "pnpm install",
+  "frontend:build": "pnpm run build",
+  "frontend:dev:watcher": "pnpm run dev",
+  "frontend:dev:serverUrl": "http://localhost:5173",
+  "author": {
+    "name": "plzfgme",
+    "email": "m19959605070@163.com"
+  }
+}

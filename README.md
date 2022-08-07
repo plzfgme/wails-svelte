@@ -1,0 +1,1 @@
+# Wails Template for Svelte
